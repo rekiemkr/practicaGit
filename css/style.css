@@ -3,3 +3,10 @@
     height: 70px;
     background: #08ad9f;
 }
+#footer{
+    background: linear-gradient(90deg, rgb(28, 54, 67), rgb(39, 59, 71) 50%, rgb(30, 83, 114));
+}
+
+#footer a{
+    color: white;
+}
